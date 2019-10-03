@@ -1,7 +1,7 @@
-"{
-"accountOwner":"alina",
-"accountType":"premium",
-"accountKind":"master",
-"userName":"test-name",
-"userPassword":"test-password"
-}"
+{
+  "accountOwner": "alina",
+  "accountType": "premium",
+  "accountKind": "master",
+  "userName": "test-name",
+  "userPassword": "test-password"
+}

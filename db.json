@@ -1,14 +1,7 @@
 {
-  "posts": [
-    {
-      "title": "title-1",
-      "description": "desc-1",
-      "key": 1
-    },
-    {
-      "title": "title-2",
-      "description": "desc-2",
-      "key": 2
-    }
-  ]
+  "accountOwner": "alina",
+  "accountType": "premium",
+  "accountKind": "master",
+  "userName": "test-name",
+  "userPassword": "test-password",
 }

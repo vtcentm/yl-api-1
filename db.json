@@ -1,7 +1,9 @@
 {
-  "accountOwner": "alina",
-  "accountType": "premium",
-  "accountKind": "master",
-  "userName": "test-name",
-  "userPassword": "test-password"
+  "account": {
+    "accountOwner": "alina",
+    "accountType": "premium",
+    "accountKind": "master",
+    "userName": "test-name",
+    "userPassword": "test-password"
+  }
 }
